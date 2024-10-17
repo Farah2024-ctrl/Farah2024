@@ -6,8 +6,10 @@ planning.
 
 TECH PROJECTS
 Business Intelligence Analysis 01/2024 - Present
+
 Airbnb Market Analysis for
 Manhattan (Nyc Airbnb)
+
 ● Conducted a detailed analysis of Manhattan's Airbnb market for property
 investment strategies.
 ● Identified trends in property types, pricing, and demand hotspots using NYC
@@ -17,6 +19,7 @@ Airbnb data.
 
 Shopify App Analysis
 (Power Bi)
+
 ● Analyzed app performance metrics on Shopify using KPI cards, line charts, and
 scatter plots.
 ● Created DAX expressions to calculate review scores and developer response
@@ -25,6 +28,7 @@ times.
 
 
 Zomato Customer Analysis Project
+
 ● Formulated research questions and tested customer behavior hypotheses.
 ● Cleaned and transformed Zomato data for analysis.
 ● Conducted customer segmentation and visualized demographics and purchase trends.
