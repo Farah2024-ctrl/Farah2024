@@ -6,7 +6,7 @@ planning.
 
 TECH PROJECTS
 Business Intelligence Analysis 01/2024 - Present
-
+[https://github.com/Farah2024-ctrl/Zomato-Customer-Analysis-Project-]
 Airbnb Market Analysis for
 Manhattan (Nyc Airbnb)
 
